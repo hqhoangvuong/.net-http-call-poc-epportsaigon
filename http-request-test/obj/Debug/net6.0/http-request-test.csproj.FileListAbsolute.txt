@@ -1,0 +1,15 @@
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/bin/Debug/net6.0/http-request-test
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/bin/Debug/net6.0/http-request-test.deps.json
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/bin/Debug/net6.0/http-request-test.runtimeconfig.json
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/bin/Debug/net6.0/http-request-test.dll
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/bin/Debug/net6.0/http-request-test.pdb
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.csproj.AssemblyReference.cache
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.AssemblyInfoInputs.cache
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.AssemblyInfo.cs
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.csproj.CoreCompileInputs.cache
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.dll
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/refint/http-request-test.dll
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.pdb
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/http-request-test.genruntimeconfig.cache
+/Users/vuongqhhuynh/Projects/http-request-test/http-request-test/obj/Debug/net6.0/ref/http-request-test.dll
